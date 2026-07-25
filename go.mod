@@ -7,7 +7,7 @@ require (
 	github.com/labstack/echo/v4 v4.15.4
 	github.com/nats-io/nkeys v0.4.16
 	github.com/stretchr/testify v1.11.1
-	google.golang.org/grpc v1.82.0
+	google.golang.org/grpc v1.82.1
 	google.golang.org/protobuf v1.36.11
 	gopkg.in/yaml.v3 v3.0.1
 )
